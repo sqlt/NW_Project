@@ -1,0 +1,8 @@
+C:\Users\sree\Documents\Visual Studio 2013\Projects\Networking_Project\Networking_Project\bin\Debug\Networking_Project.exe.config
+C:\Users\sree\Documents\Visual Studio 2013\Projects\Networking_Project\Networking_Project\bin\Debug\Networking_Project.exe
+C:\Users\sree\Documents\Visual Studio 2013\Projects\Networking_Project\Networking_Project\bin\Debug\Networking_Project.pdb
+C:\Users\sree\Documents\Visual Studio 2013\Projects\Networking_Project\Networking_Project\obj\Debug\Networking_Project.Form1.resources
+C:\Users\sree\Documents\Visual Studio 2013\Projects\Networking_Project\Networking_Project\obj\Debug\Networking_Project.Properties.Resources.resources
+C:\Users\sree\Documents\Visual Studio 2013\Projects\Networking_Project\Networking_Project\obj\Debug\Networking_Project.csproj.GenerateResource.Cache
+C:\Users\sree\Documents\Visual Studio 2013\Projects\Networking_Project\Networking_Project\obj\Debug\Networking_Project.exe
+C:\Users\sree\Documents\Visual Studio 2013\Projects\Networking_Project\Networking_Project\obj\Debug\Networking_Project.pdb
